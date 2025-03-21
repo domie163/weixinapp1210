@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#2D6261",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "智慧物流小程序首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}
